@@ -1,0 +1,5 @@
+com\example\service\DeviceDao.class
+com\example\Main.class
+com\example\MyResource.class
+com\example\resource\DeviceResource.class
+com\example\model\Device.class
